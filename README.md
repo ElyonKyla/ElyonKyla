@@ -126,17 +126,9 @@ Planned stack:
 
 Python • FastAPI • REST API • Authentication • Database integration
 
----
 
-# 📊 GitHub Stats
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElyonKyla&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyonKyla&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -150,7 +142,5 @@ Galicia, Spain 🇪🇸
 Thanks for visiting my profile!
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+
 
