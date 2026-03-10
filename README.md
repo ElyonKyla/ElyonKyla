@@ -59,18 +59,6 @@ Currently expanding my backend and cloud stack with Python and AWS.
 
 </p>
 
----
-
-# ☁️ Certifications
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Generative%20AI-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Developing%20on%20AWS-yellow?style=for-the-badge"/>
-
-</p>
 
 ---
 
