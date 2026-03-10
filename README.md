@@ -10,7 +10,11 @@
 <h2 align="center">Backend Developer | AWS Certified Cloud Practitioner</h2>
 
 <p align="center">
-Software Engineer focused on backend development, structured data processing and enterprise systems.
+
+Backend developer with experience in enterprise software, data processing systems and cloud technologies.
+I enjoy building reliable backend systems, working with structured data and integrating applications with databases and APIs.
+
+Currently expanding my backend and cloud stack with Python and AWS.  
 </p>
 
 ---
