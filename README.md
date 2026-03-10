@@ -3,9 +3,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Tania%20Veiga%20Alén&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+
 
 <h2 align="center">Backend Developer | AWS Certified Cloud Practitioner</h2>
 
