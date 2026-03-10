@@ -37,6 +37,17 @@ Currently expanding my backend and cloud stack with Python and AWS.
 </p>
 
 ---
+# ☁️ Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/earner/earned/badge/87b71a71-3e5c-4cd3-b7d9-f5b7a69774d4">
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
+</a>
+
+</p>
+
+---
 
 # ☁️ Certifications
 
