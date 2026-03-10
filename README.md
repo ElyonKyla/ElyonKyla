@@ -53,7 +53,7 @@ Currently expanding my backend and cloud stack with Python and AWS.
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Generative%20AI-purple?style=for-the-badge&logo=amazonaws"/>
 </a>
 
-<a href="https://sede.xunta.gal/cve">
+<a href="[https://sede.xunta.gal/cve](https://sede.xunta.gal/cve?idcve=3eld4TADpjh0)">
 <img src="https://img.shields.io/badge/Xunta%20de%20Galicia-Developing%20on%20AWS-yellow?style=for-the-badge"/>
 </a>
 
