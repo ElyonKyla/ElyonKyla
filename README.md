@@ -11,6 +11,7 @@
 
 <p align="center">
 I'm Tania Veiga
+</br>
 Backend developer with experience in enterprise software, data processing systems and cloud technologies.
 I enjoy building reliable backend systems, working with structured data and integrating applications with databases and APIs.
 
