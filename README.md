@@ -45,6 +45,14 @@ Currently expanding my backend and cloud stack with Python and AWS.
 <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
 </a>
 
+<a href="https://www.credly.com/earner/earned/badge/cd667bb0-b759-45a2-9dca-66661b05ae89">
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-blue?style=for-the-badge&logo=amazonaws"/>
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/a3dc5014-1a6e-44d4-9c26-dd99d478250d">
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Generative%20AI-purple?style=for-the-badge&logo=amazonaws"/>
+</a>
+
 </p>
 
 ---
