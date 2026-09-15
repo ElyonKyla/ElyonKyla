@@ -79,25 +79,25 @@ Software engineer with experience across multiple areas of the software stack:
 
 ## 🚗 Taller & Cars Listanco
 
-Car stock website for a small automotive business, built with Angular and prepared to use Directus as a CMS/admin panel.
+Car stock website for a small automotive business, built with Angular and powered by Directus.
 
-The project focuses on a clean public catalog for available vehicles, with a simple admin workflow planned through Directus.
+The website provides a public vehicle catalog with detailed specifications and photo galleries. Content is managed through Directus hosted on Railway.
 
 **Tech**
 
-Angular • TypeScript • SCSS • Directus • Netlify
+Angular • TypeScript • SCSS • Directus • PostgreSQL • S3 • Railway • Netlify
 
 **Live site**
 
-https://tallercarslistanco.netlify.app
+[https://tallercarslistanco.netlify.app](https://tallercarslistanco.netlify.app)
 
 **Repository**
 
-https://github.com/ElyonKyla/compraventa-coches
+[https://github.com/ElyonKyla/compraventa-coches](https://github.com/ElyonKyla/compraventa-coches)
 
 **Status**
 
-In progress — frontend V1 deployed, Directus schema prepared locally.
+V1 live and verified on desktop and mobile. Production reads real vehicle data and ordered photos from Directus on Railway, with restricted public read-only access. Custom domains are planned.
 
 ---
 ## 📦 Almacen — Mini ERP
